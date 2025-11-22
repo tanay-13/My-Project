@@ -63,4 +63,4 @@ Follow these steps to verify the accuracy of the program:
 3.  **Expected Output:** `Error: Please enter a valid number.` (The program should not crash).
 
 ## 📸 Screenshots
-*Note: All the screenshots are provided in `screenshots.md`.*
+*Note: All the screenshots are provided in* `screenshots.md`.
